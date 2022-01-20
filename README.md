@@ -1,9 +1,9 @@
 
 ### Olá sou João Daniel da Silva👋
-
-<img aling="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=danieldsv23&theme=dracula"/>
-<img aling="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsv23&layout="/>
-
+<div style="display:inline_block ">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldsv23&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsv23&layout=dark"/>
+</div>
 
 <div style="display:inline_block"><br>
 <img aling="center" alt="Daniel-html" heigt="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
