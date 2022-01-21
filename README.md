@@ -1,8 +1,8 @@
 
 <h1>Olá sou João Daniel da Silva <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" style="width: 30px;"></img></h1>
 <div style="display:inline_block ">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldsv23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsv23&layout=compact&langs_count=7&theme=dracula"/>
+ <img aling="left"  width="47%"   src="https://github-readme-stats.vercel.app/api?username=danieldsv23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img aling="left"  width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldsv23&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div>
